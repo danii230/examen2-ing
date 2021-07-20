@@ -1,7 +1,7 @@
 package cr.ac.ucr.sa.examen2ing;
 import java.util.ArrayList;
 import java.util.List;
-public class UpperBody {
+public class UpperBody implements Workout{
 	 private List<Exercise> exercises = new ArrayList<>();
 
 	    /**
